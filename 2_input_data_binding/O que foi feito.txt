@@ -1,0 +1,4 @@
+Como utilizar 2 tipos de submit de texto, pelo o
+evento que por exemplo é quando vc clica exemplo
+vc clica em submit e outro é o data binding
+que ele altera ao mesmo tempo.
