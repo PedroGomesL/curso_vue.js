@@ -1,0 +1,5 @@
+A instalação está desatualizada, mas seguindo a documentação é utilziado os seguintes comandos: 
+npm create vue@latest
+cd vue-project
+npm install
+npm run dev

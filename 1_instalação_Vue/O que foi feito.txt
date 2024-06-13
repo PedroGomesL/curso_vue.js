@@ -1,3 +1,6 @@
 Aprendi como instalar pelo CDN e como que pega as informações do app.js
 pelo formato {{ atributo }} e que para funciona precisa está dentro da div
 que está importando o app.js
+CDN é mais limitado
+
+
