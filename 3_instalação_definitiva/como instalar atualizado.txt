@@ -3,3 +3,5 @@ npm create vue@latest
 cd vue-project
 npm install
 npm run dev
+
+npm run backend
